@@ -1,0 +1,5 @@
+{
+  "name": "Mohammadpur Plumbing - 24/7 Emergency Service",
+  "description": "Professional emergency plumbing services in Mohammadpur, Dhaka. 30-minute response time for pipe leaks, drain cleaning, and more.",
+  "requestFramePermissions": ["geolocation"]
+}
